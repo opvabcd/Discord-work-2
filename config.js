@@ -15,7 +15,7 @@ function reloadPresence(client) {
         .setState("ENJOY MUSIC EFFORTLESSLY") // Set the activity state
         .setStartTimestamp(global.startTime) // Make sure global.startTime is defined correctly
         .setAssetsLargeImage("https://media.discordapp.net/attachments/1136290202118279270/1260236974359576638/VID-20240612-WA0013.gif?ex=66948564&is=669333e4&hm=303fff743c1a58823d77e20f0f77448881e242959748db9e2da3fd1f6eed4cc2&") // Replace with your large image key
-        .setAssetsLargeText("Listening To 110 Servers")
+        
         
         
 
